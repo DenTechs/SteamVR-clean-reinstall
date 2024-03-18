@@ -1,0 +1,1 @@
+pyinstaller --onefile --name Clean_Reinstall_SteamVR main.py
